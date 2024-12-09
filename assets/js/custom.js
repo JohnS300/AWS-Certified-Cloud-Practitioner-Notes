@@ -1,5 +1,5 @@
 // detect Ad-Blocker and display error pop up
-function adBlockFunction() {
+/*function adBlockFunction() {
   console.log('Add Blocker Detected');
   let adp_underlay = document.createElement('div');
   adp_underlay.className = 'adp-underlay';
@@ -26,4 +26,4 @@ function uBlockActive() {
     return false
   }
   adBlockFunction();
-}
+}*/
